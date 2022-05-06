@@ -1,1 +1,1 @@
-# pyscript-deep-learning
+# pyscript-machine-learning
